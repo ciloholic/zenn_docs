@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "textlint": "^14.8.4",
+    "textlint": "^15.4.1",
     "textlint-rule-preset-smarthr": "^1.36.1",
-    "zenn-cli": "^0.1.162"
+    "zenn-cli": "^0.2.10"
   }
 }
